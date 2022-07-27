@@ -1,0 +1,14 @@
+{
+  "name": "gitfav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./js/main.js",
+  "author": "Matheus Rodrigues Pereira",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
