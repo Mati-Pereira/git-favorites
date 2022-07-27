@@ -25,5 +25,5 @@ This project consists of selecting any profile on GitHub, so you can see its num
 
 ## Demo
 
-[GITFAV](www.google.com.br)
+[GITFAV](https://gitfav.netlify.app/)
 
