@@ -1,5 +1,5 @@
 
-# GITFAV
+# git-favorites
 
 This project consists of selecting any profile on GitHub, so you can see its number of public repositories and number of followers
 
