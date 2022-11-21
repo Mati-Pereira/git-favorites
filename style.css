@@ -173,12 +173,15 @@ td .remove {
   display: none;
 }
 
-@media (max-width: 700px) {
+@media screen and (max-width: 480px) {
   :root {
     font-size: 50%;
   }
   header {
     flex-direction: column;
     gap: 2rem;
+  }
+  .back-no-favorites {
+    flex-direction: column;
   }
 }
